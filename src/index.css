@@ -1,0 +1,86 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+@import "tailwindcss";
+
+
+*{
+    font-family:'Poppins';
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+    display: none;
+}
+
+/* styles.css */
+/* .dark-mode {
+    background-color: #1a202c;
+    color: #ffffff;
+}
+
+.dark-mode .bg-gray-100 {
+    background-color: #2d3748;
+}
+
+.dark-mode .text-gray-800 {
+    color: #ffffff;
+}
+
+.dark-mode .bg-gray-200 {
+    background-color: #344155;
+}
+
+.dark-mode .text-gray-400 {
+    color: #a0aec0;
+}
+
+.dark-mode .bg-gray-300 {
+    background-color: #425466;
+}
+
+.dark-mode .text-gray-900 {
+    color: #ffffff;
+}
+
+.dark-mode .bg-gray-400 {
+    background-color: #516378;
+}
+
+.dark-mode .text-gray-500 {
+    color: #718096;
+}
+
+.dark-mode .bg-gray-500 {
+    background-color: #607d94;
+}
+
+.dark-mode .text-gray-600 {
+    color: #4a5568;
+}
+
+.dark-mode .bg-gray-600 {
+    background-color: #4a5568;
+}
+
+.dark-mode .text-gray-700 {
+    color: #2d3748;
+}
+
+.dark-mode .bg-gray-700 {
+    background-color: #2d3748;
+}
+
+.dark-mode .text-gray-900 {
+    color: #1a202c;
+}
+
+.dark-mode .bg-gray-800 {
+    background-color: #1a202c;
+}
+
+.dark-mode .text-white {
+    color: #ffffff;
+}
+
+.dark-mode .bg-white {
+    background-color: #ffffff;
+} */
